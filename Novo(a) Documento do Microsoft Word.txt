@@ -1,7 +1,7 @@
 <html>
 <head></head>
  <body>
-  <h1> Git para iniciantes </h1>
+  <h1> Git para iniciantes, acima de 12 anos </h1>
  </body>
 </html>
 
